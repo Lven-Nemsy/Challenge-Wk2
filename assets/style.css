@@ -2,7 +2,7 @@
 
 .header {
     display: flexbox;
-    font-family: 'Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif';
+    font-family: 'Impact, Haettenschweiler, Arial Narrow Bold, sans-serif';
     font-size: 30px;
     background-image: url(./images/IMG_0951.JPEG);
     background-size:cover;
